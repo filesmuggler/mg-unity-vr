@@ -1,10 +1,10 @@
-﻿using System.Collections;
+﻿﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
 using System.IO;
 
-public class myPlayerController : MonoBehaviour
+public class ExperimentScript : MonoBehaviour
 {
     // levels of crystals to count by the subject
     public GameObject crystalLevels;
